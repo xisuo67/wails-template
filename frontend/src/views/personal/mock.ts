@@ -6,7 +6,7 @@ export const newsInfoList = [
 	{
 		title: '[发布] 2021年02月28日发布基于 vue3.x + vite v1.0.0 版本',
 		date: '02/28',
-		link: 'https://gitee.com/lyt-top/vue-next-admin',
+		link: 'https://github.com/xisuo67/wails-template',
 	},
 	{
 		title: '[发布] 2021年04月15日发布 vue2.x + webpack 重构版本',
