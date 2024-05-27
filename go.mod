@@ -1,4 +1,4 @@
-module Spider
+module wails-template-admin
 
 go 1.21
 
