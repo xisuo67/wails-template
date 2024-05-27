@@ -1,19 +1,27 @@
-# README
+<p align="center">
+  <a href="https://github.com/xisuo67/wails-template">
+  </a>
+</p>
+<h1 align="center">wails-template</h1>
 
-## About
+<div align="center">
+    <p align="center">
+    <a href="https://github.com/xisuo67/wails-template/stargazers" style="text-decoration:none" >
+        <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/xisuo67/wails-template">
+    </a>
+    <a href="https://github.com/xisuo67/XHS-Spider/network" style="text-decoration:none" >
+        <img alt="GitHub forks" src="https://img.shields.io/github/forks/xisuo67/wails-template">
+    </a>
+    <a href="https://github.com/xisuo67/XHS-Spider/issues" style="text-decoration:none">
+        <img alt="GitHub issues" src="https://img.shields.io/github/issues/xisuo67/wails-template">
+    </a>
+    <a href="https://github.com/xisuo67/XHS-Spider/blob/main/LICENSE" style="text-decoration:none" >
+        <img alt="GitHub" src="https://img.shields.io/github/license/xisuo67/wails-template">
+    </a>
+</p>
+</div>
 
-This is the official Wails Vue-TS template.
 
-You can configure the project by editing `wails.json`. More information about the project settings can be found
-here: https://wails.io/docs/reference/project-config
+<table>
 
-## Live Development
-
-To run in live development mode, run `wails dev` in the project directory. This will run a Vite development
-server that will provide very fast hot reload of your frontend changes. If you want to develop in a browser
-and have access to your Go methods, there is also a dev server that runs on http://localhost:34115. Connect
-to this in your browser, and you can call your Go code from devtools.
-
-## Building
-
-To build a redistributable, production mode package, use `wails build`.
+</table>
