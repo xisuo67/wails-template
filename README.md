@@ -24,8 +24,8 @@
 
 <table>
     <tr>
-        <td><img height="300px" width="500px" src="https://github.com/xisuo67/wails-template/tree/vue3-template/screenShot/1.png"/></td>
-        <td><img  height="300px" width="500px" src="https://github.com/xisuo67/wails-template/tree/vue3-template/screenShot/2.png"/></td>
+        <td><img height="300px" width="500px" src="screenShot/1.png"/></td>
+        <td><img  height="300px" width="500px" src="screenShot/2.png"/></td>
     </tr>
 
 </table>
